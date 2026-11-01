@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Handy AI</string>
-    <string name="accessibility_service_label">Handy AI</string>
+    <string name="app_name">HYPER AI </string>
+    <string name="accessibility_service_label">HYPER AI</string>
     <string name="accessibility_service_summary">Voice-first AI assistant for users with vision and motor disabilities.</string>
     <string name="accessibility_service_description">Handy AI is an accessibility tool that lets you operate your phone with your voice. Speak a task in plain English and Handy AI reads the screen, narrates each step aloud, and performs taps, swipes, and text input on your behalf so you can use any app hands-free. Designed for blind and low-vision users (TalkBack-compatible), users with motor disabilities (ALS, Parkinson\'s), users with cognitive impairments (Easy Mode), and anyone who wants voice control across all their apps. You can revoke this permission at any time from Accessibility settings.</string>
 
